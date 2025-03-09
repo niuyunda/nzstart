@@ -61,12 +61,10 @@ NZ生存手册/
 
 
 ## 联系方式
-如有任何问题或建议，请通过 GitHub Issues 提出，或联系 [your-email@example.com](mailto:your-email@example.com)。
+如有任何问题或建议，请通过 GitHub Issues 提出。
 
 ---
 
 感谢你的关注与支持，祝你在新西兰生活愉快、顺利安顿！
 
 ---
-
-你可以将上述内容直接复制到 GitHub 仓库的 README.md 文件中，后续根据项目进展再进行调整和扩充。
