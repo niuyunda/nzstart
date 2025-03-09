@@ -1,4 +1,5 @@
 import type {ReactNode} from 'react';
+import { SpeedInsights } from "@vercel/speed-insights/react"
 import clsx from 'clsx';
 import Link from '@docusaurus/Link';
 import useDocusaurusContext from '@docusaurus/useDocusaurusContext';
@@ -39,6 +40,7 @@ export default function Home(): ReactNode {
       <main>
         <HomepageFeatures />
       </main>
+      <SpeedInsights />
     </Layout>
   );
 }
