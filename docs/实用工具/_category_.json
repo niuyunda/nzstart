@@ -1,8 +1,8 @@
 {
-  "label": "交通与出行",
-  "position": 5,
+  "label": "实用工具",
+  "position": 11,
   "link": {
     "type": "generated-index",
-    "description": "新西兰交通与出行相关"
+    "description": "整理常用的生活、出行、求职、医疗、购物等相关的APP和网站等。"
   }
 }
