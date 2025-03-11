@@ -34,8 +34,8 @@ export default function Home(): ReactNode {
   const {siteConfig} = useDocusaurusContext();
   return (
     <Layout
-      title={`首页`}
-      description="Description will go into a meta tag in <head />">
+      title={`NZ生存指南 | 新西兰生活必备手册 - 从入境到定居全搞定！`}
+      description="刚到新西兰，不知道从哪里开始？NZ生存指南帮你从入境、租房、交通、医疗到工作、生活、娱乐，全方位掌握新西兰必备信息！实用干货+本地经验，助你快速适应Kiwi生活！">
       <HomepageHeader />
       <main>
         <HomepageFeatures />
