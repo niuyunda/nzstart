@@ -81,11 +81,11 @@ const config: Config = {
           label: '文档',
         },
         // {to: '/blog', label: '博客', position: 'left'},
-        {
-          href: 'https://github.com/niuyunda/nzstart',
-          label: 'GitHub',
-          position: 'right',
-        },
+        // {
+        //   href: 'https://github.com/niuyunda/nzstart',
+        //   label: 'GitHub',
+        //   position: 'right',
+        // },
       ],
     },
     footer: {
