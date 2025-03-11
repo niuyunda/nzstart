@@ -6,7 +6,7 @@ import type * as Preset from '@docusaurus/preset-classic';
 
 const config: Config = {
   title: 'NZ 生存指南',
-  tagline: '在新西兰快速站稳脚跟',
+  tagline: '从开户到上路——指南在手，落地无忧',
   favicon: 'img/favicon.ico',
 
   // Set the production url of your site here

@@ -2,9 +2,9 @@
 sidebar_position: 6
 ---
 
-# 📝 IRD 税号（IRD Number）
+# 📝 IRD 税号
 
-## 什么是 IRD 号？
+## 什么是 IRD 号（IRD Number）？
 
 IRD 号（Inland Revenue Department Number）是新西兰税务局（IRD）分配给个人和企业的独特税务识别号码📄。如果你在新西兰工作、投资、领取福利或经营生意，你都需要一个 IRD 号来管理你的税务。
 
