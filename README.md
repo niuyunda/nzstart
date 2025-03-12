@@ -23,7 +23,8 @@ NZ生存手册/
 ├── docs/          # 项目文档与详细指南
 ├── assets/        # 图片、图标及其他资源文件
 ├── src/           # 前端代码（如果有网站或应用界面）
-└── README.md      # 项目简介与说明文件
+├── README.md      # 项目简介与说明文件
+└── LICENSE      # 许可证
 ```
 
 ## 快速开始
@@ -69,6 +70,10 @@ NZ生存手册/
    ```
 
 5. 发起 Pull Request，与我们讨论并合并改进
+
+## 开源许可证
+
+本项目采用 [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/) 许可证。更多详细内容请参阅 [LICENSE](./LICENSE) 文件。
 
 ## 联系方式
 
