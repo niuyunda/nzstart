@@ -72,6 +72,12 @@ const config: Config = {
   ],
 
   themeConfig: {
+    // Declare some <meta> tags
+    metadata: [
+      {name: 'keywords', content: '新西兰, 移民, 留学, 生活, 工作, 投资, 旅游, 指南, 手机卡, 公交卡, 银行卡, 驾照, 保险, 房产, 租房, 买房, 贷款, 税务, 移民局, 签证'},
+      {name: 'author', content: 'NZ 生存指南'},
+      {name: 'description', content: '从开户到上路——指南在手，落地无忧'},
+    ],
     // Replace with your project's social card
     image: 'img/nzstart.jpg',
     navbar: {
